@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[YOUR CART]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-28T09:51:22 IST" name="Default suite" finished-at="2022-06-28T09:51:31 IST" duration-ms="9630">
+    <groups>
+    </groups>
+    <test started-at="2022-06-28T09:51:22 IST" name="Default test" finished-at="2022-06-28T09:51:31 IST" duration-ms="9630">
+      <class name="testcase.Verify_Page_Header">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testcase.Verify_Page_Header@7ea9e1e2]" started-at="2022-06-28T09:51:09 IST" name="beforeSuite" finished-at="2022-06-28T09:51:22 IST" duration-ms="12925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="verify_Page_Header()[pri:0, instance:testcase.Verify_Page_Header@7ea9e1e2]" started-at="2022-06-28T09:51:22 IST" name="verify_Page_Header" finished-at="2022-06-28T09:51:31 IST" duration-ms="9575" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[YOUR CART]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_Page_Header -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testcase.Verify_Page_Header@7ea9e1e2]" started-at="2022-06-28T09:51:31 IST" name="afterSuite" finished-at="2022-06-28T09:51:32 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcase.Verify_Page_Header -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
